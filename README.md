@@ -16,7 +16,7 @@ Come say hi in #cascadiajs on irc.freenode.net
 
 ## Meetups
 
-This should be a comprehensive list of JS meetups in the greater [Cascadia](http://en.wikipedia.org/wiki/Cascadia_(independence_movement)) region. Feel free to add to this list.
+This should be a comprehensive list of JS meetups in the greater [Cascadia](http://en.wikipedia.org/wiki/Cascadia_(independence_movement) region. Feel free to add to this list.
 
 ### Vancouver
 * [VanJS](http://www.meetup.com/vancouver-javascript-developers/)
