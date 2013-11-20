@@ -30,6 +30,8 @@ This should be a comprehensive list of JS meetups in the greater [Cascadia](http
 ### Portland
 * [Portland JavaScript Admirers](http://www.meetup.com/Portland-JavaScript-Admirers/)
 * [PDXNode](http://www.meetup.com/nodepdx/)
+* [AngularJS Portland](http://www.meetup.com/AngularJS-Portland/)
+* [Ember-PDX](http://www.meetup.com/Ember-PDX/)
 
 
 ## Calendar
