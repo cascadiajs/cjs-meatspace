@@ -26,6 +26,7 @@ This should be a comprehensive list of JS meetups in the greater [Cascadia](http
 * [SeattleJS](http://www.meetup.com/seattlejs/)
 * [Seattle Node.js](http://www.meetup.com/Seattle-Node-js/)
 * [Seattle Mobile Web Apps](http://www.meetup.com/MobileDevelopment/)
+* [Ember.js Seattle](http://www.meetup.com/Ember-js-Seattle-Meetup/)
 
 ### Portland
 * [Portland JavaScript Admirers](http://www.meetup.com/Portland-JavaScript-Admirers/)
