@@ -1,4 +1,27 @@
-cjs-meatspace
-=============
+# CascadiaJS Meatspace
 
-Just like Mikeal's Node Meatspace, but for JS people &amp; events up and down the Pacific Northwest
+*Inspired by Mikeal's [Node.js Meatspace](http://nodemeatspace.com/)*
+
+This project is to encourage and promote real world in-person events by/for the CascadiaJS community.
+
+The [issue tracker](https://github.com/cascadiajs/cjs-meatspace/issues) is used as a message board. If you have some ideas about in-person events or want to put something together in your area please create a new issue.
+
+## Meetups
+
+### Vancouver
+* VanJS
+* NodeVan
+
+### Seattle
+* SeattleJS
+* Seattle Node
+* Seattle Mobile Web Apps
+
+### Portland
+* JavaScript Admireres
+* PDXNode
+
+
+## Calendar
+
+
