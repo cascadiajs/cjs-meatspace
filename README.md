@@ -2,7 +2,7 @@
 
 *Inspired by Mikeal's [Node.js Meatspace](http://nodemeatspace.com/)*
 
-![cjs logo](https://pbs.twimg.com/profile_images/378800000192409224/bf4f92ee39a0bad9c04d34f9e63baab2.png)
+![family photo](http://2015.cascadiajs.com/assets/img/cjs2015-family-600.jpg)
 
 This project is to encourage and promote real world in-person events by/for the CascadiaJS community. Please feel free to star
 
